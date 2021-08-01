@@ -1,8 +1,13 @@
 # Planet Sandbox using Python and Pygame
 ## Controls:
-hold **a** to prime. 
-press **d** to fire a planet. 
-use the mouse to aim. 
-press **t** to toggle trajectory viewer. 
-press **space** to toggle pause. 
-press **r** to reset the sandbox
+Hold **a** to prime. 
+
+Press **d** to fire a planet. 
+
+Use the mouse to aim. 
+
+Press **t** to toggle trajectory viewer. 
+
+Press **space** to toggle pause. 
+
+Press **r** to reset the sandbox
