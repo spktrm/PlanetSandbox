@@ -1,5 +1,5 @@
-Controls:
-
+# Planet Sandbox using Python and Pygame
+## Controls:
 hold **a** to prime. 
 press **d** to fire a planet. 
 use the mouse to aim. 
